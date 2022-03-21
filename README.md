@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KamalpreetSingh007
-- 👀 I’m interested in Full stack Development.
+- 👀 I’m interested in Full stack development.
 - 🌱 I’m currently learning Git and GitHub.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me there.
 
 <!---
 Kamalpreet Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
